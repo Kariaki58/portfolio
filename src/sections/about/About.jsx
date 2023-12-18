@@ -1,4 +1,4 @@
-import AboutImage from '../../assets/about.jpg';
+import AboutImage from '../../assets/realsophia2.jpeg';
 import CV from '../../assets/terryResume.pdf'
 import { HiDownload } from "react-icons/hi";
 import data from './data';
@@ -27,11 +27,7 @@ const About = () => {
                             ))
                         }
                     </div>
-                    <p>
-                        Building projects my clients love has always been my passion.
-                        Being in the web developmnet industry for over 3 years and serving more than
-                        40 happy clients worlwide. I'm always motivated to do more!
-                    </p>
+                    
                     <p>
                         Hi, my name is Terry Wambui from Nairobi, Kenya. I'm a full-stack web developer with a Certificate 
                         in Software Engineering. My top priority is to get your business online the right way, giving

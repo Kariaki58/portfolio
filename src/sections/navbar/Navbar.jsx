@@ -1,4 +1,4 @@
-import Logo from '../../assets/logo.jpeg';
+import Logo from '../../assets/sophiaheader.jpeg';
 import data from './data';
 import { IoIosColorPalette } from "react-icons/io";
 import { useModalContext } from '../../context/modal-context';
