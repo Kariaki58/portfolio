@@ -1,4 +1,4 @@
-import Image1 from '../../assets/echoes.png'
+import Image1 from '../../assets/styledbybella.png'
 import Image2 from '../../assets/tindog.png'
 import Image3 from '../../assets/loveCalculator.png'
 // import Image4 from '../../assets/project4.jpg'
@@ -13,10 +13,10 @@ const data = [
         id: 1,
         category: 'full stack',
         image: Image1,
-        title: "Echoes (FULL STACK)",
-        desc: "A blog platform built using Flask, HTML/CSS, JavaScript and MySQL",
-        demo: 'https://echoesblog.tech/index',
-        github: 'https://github.com/terryyufei/echoes'
+        title: "Styled By Bella (FULL STACK)",
+        desc: "An e-commerce website built using Laravel, TailwindCSS, Alpine.js, and MySQL.",
+        demo: 'https://styledbybella.studio/',
+        github: 'https://github.com/terryyufei/styled_by_bella'
     },
     {
         id: 2,
