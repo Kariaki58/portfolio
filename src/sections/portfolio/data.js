@@ -3,10 +3,10 @@ import Image2 from '../../assets/tindog.png'
 import Image3 from '../../assets/loveCalculator.png'
 // import Image4 from '../../assets/project4.jpg'
 // import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/birthday.png'
+import Image6 from '../../assets/disheey.png'
 import Image7 from '../../assets/personal.png'
 // import Image8 from '../../assets/project8.jpg'
-import Image9 from '../../assets/baobei.png'
+import Image9 from '../../assets/paprus.png'
 
 const data = [
     {
@@ -21,20 +21,20 @@ const data = [
     {
         id: 2,
         category: 'frontend',
-        image: Image2,
-        title: "Tindog (Frontend)",
-        desc: "A landing page for a dog dating website built using HTML/CSS and Bootstrap",
-        demo: 'https://tindog-mu-cyan.vercel.app/',
-        github: 'https://github.com/terryyufei/tindog'
+        image: Image6,
+        title: "Disheey (Frontend)",
+        desc: "A landing page for a start up company built using Tailwind CSS",
+        demo: 'https://disheey.com/',
+        github: 'https://github.com/muindetuva/disheey'
     },
     {
         id: 3,
         category: 'frontend',
-        image: Image3,
-        title: "Love Calculator (Frontend)",
-        desc: "A soulmate game built using HTML/CSS and JavaScript",
-        demo: 'https://terryyufei.github.io/love_calculator/',
-        github: 'https://github.com/terryyufei/love_calculator'
+        image: Image9,
+        title: "Paprus (Frontend)",
+        desc: "A Landing Page for a Company built using Tailwind CSS and alpine.js.",
+        demo: 'https://paprus-landing-page.vercel.app/',
+        github: 'https://github.com/terryyufei/paprus_landing-page'
     },
     /* {
         id: 4,
@@ -57,11 +57,11 @@ const data = [
     {
         id: 6,
         category: 'frontend',
-        image: Image6,
-        title: "Birthday (Frontend)",
-        desc: "A birthday card that opens on hover and plays a song, built using HTML/CSS",
-        demo: 'https://birthday-card-iota.vercel.app/',
-        github: 'https://github.com/terryyufei/Birthday_card'
+        image: Image2,
+        title: "Tindog (Frontend)",
+        desc: "A landing page for a dog dating website built using HTML/CSS and Bootstrap",
+        demo: 'https://tindog-mu-cyan.vercel.app/',
+        github: 'https://github.com/terryyufei/tindog'
     },
     {
         id: 7,
@@ -84,11 +84,11 @@ const data = [
     {
         id: 9,
         category: 'frontend',
-        image: Image9,
-        title: "BaoBei Fashions (Frontend)",
-        desc: "An e-commerce landing page built using HTML/CSS and Bootstrap",
-        demo: 'https://baobei-fashions.vercel.app/',
-        github: 'https://github.com/terryyufei/baobei-fashions'
+        image: Image3,
+        title: "Love Calculator (Frontend)",
+        desc: "A soulmate game built using HTML/CSS and JavaScript",
+        demo: 'https://terryyufei.github.io/love_calculator/',
+        github: 'https://github.com/terryyufei/love_calculator'
     }
 ]
 
