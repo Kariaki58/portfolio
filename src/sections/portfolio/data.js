@@ -1,95 +1,45 @@
-import Image1 from '../../assets/styledbybella2.png'
-import Image2 from '../../assets/tindog.png'
-import Image3 from '../../assets/loveCalculator.png'
-// import Image4 from '../../assets/project4.jpg'
-// import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/disheey.png'
-import Image7 from '../../assets/personal.png'
-// import Image8 from '../../assets/project8.jpg'
-import Image9 from '../../assets/paprus.png'
+import Image1 from '../../assets/Music.png'
+import Image2 from '../../assets/nike.png'
+import Image6 from '../../assets/social.png'
+import Image9 from '../../assets/youtube.png'
 
 const data = [
     {
         id: 1,
         category: 'full stack',
         image: Image1,
-        title: "Styled By Bella (FULL STACK)",
-        desc: "An e-commerce website built using Laravel, Tailwind, Alpine.js, and MySQL.",
-        demo: 'https://styledbybella.studio/',
-        github: 'https://github.com/terryyufei/styled_by_bella'
+        title: "MusicIO",
+        desc: "A music application build with html5, css3, JavaScript, Flask, MySQL",
+        demo: 'https://www.linkedin.com/posts/kariakistephen_cohort15-alxfoundation-cohort15-activity-7167180878287253504-Fq44?utm_source=share&utm_medium=member_desktop',
+        github: 'https://github.com/Kariaki58/MusicIO.git'
     },
     {
         id: 2,
         category: 'frontend',
         image: Image6,
-        title: "Disheey (Frontend)",
-        desc: "A landing page for a start up company built using Tailwind CSS",
-        demo: 'https://disheey.com/',
-        github: 'https://github.com/muindetuva/disheey'
+        title: "social media app",
+        desc: "Responsive social media clone",
+        demo: 'https://kariaki-reponsive-social-media.netlify.app/',
+        github: 'https://github.com/Kariaki58/Social_media_Clone.git'
     },
     {
         id: 3,
         category: 'frontend',
         image: Image9,
-        title: "Paprus (Frontend)",
-        desc: "A Landing Page for a Company built using Tailwind CSS and alpine.js.",
-        demo: 'https://paprus-landing-page.vercel.app/',
-        github: 'https://github.com/terryyufei/paprus_landing-page'
+        title: "YouTube Clone",
+        desc: "A Landing Page for Youtube Clone",
+        demo: 'https://kariaki-static-youtube.netlify.app/',
+        github: 'https://github.com/Kariaki58/Static_youTube_Clone.git'
     },
-    /* {
-        id: 4,
-        category: 'uiux',
-        image: Image4,
-        title: "Project Title Four (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
-    {
-        id: 5,
-        category: 'uiux',
-        image: Image5,
-        title: "Project Title Five (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },*/
     {
         id: 6,
         category: 'frontend',
         image: Image2,
-        title: "Tindog (Frontend)",
-        desc: "A landing page for a dog dating website built using HTML/CSS and Bootstrap",
-        demo: 'https://tindog-mu-cyan.vercel.app/',
+        title: "Nike Website",
+        desc: "A landing page for a Nike, build with reactJs and tailwind",
+        demo: 'https://kariaki-nike-landing-page.netlify.app/',
         github: 'https://github.com/terryyufei/tindog'
     },
-    {
-        id: 7,
-        category: 'frontend',
-        image: Image7,
-        title: "Personal Portfolio (Frontend)",
-        desc: "A personal portfolio site built using HTML/CSS",
-        demo: 'https://personal-portfolio-nine-bay.vercel.app/',
-        github: 'https://github.com/terryyufei/personal_portfolio'
-    },
-    /*{
-        id: 8,
-        category: 'backend',
-        image: Image8,
-        title: "Project Title Eight (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },*/
-    {
-        id: 9,
-        category: 'frontend',
-        image: Image3,
-        title: "Love Calculator (Frontend)",
-        desc: "A soulmate game built using HTML/CSS and JavaScript",
-        demo: 'https://terryyufei.github.io/love_calculator/',
-        github: 'https://github.com/terryyufei/love_calculator'
-    }
 ]
 
 

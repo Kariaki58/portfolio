@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
     </div>
     <div className="footer__copyright">
-    <small>{new Date().getFullYear()} Terry Wambui &copy; All Rights Reserved</small>
+    <small>{new Date().getFullYear()} Kariaki Stephen &copy; All Rights Reserved</small>
     </div>
    </footer>
   )

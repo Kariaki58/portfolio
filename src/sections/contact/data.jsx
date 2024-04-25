@@ -4,9 +4,9 @@ import { FaWhatsapp } from "react-icons/fa6";
 
 
 const data = [
-    {id: 1, icon: <HiOutlineMail/>, link: 'mailto:shikuwambui@gmail.com'},
-    {id: 2, icon: <AiOutlineLinkedin/>, link: 'https://www.linkedin.com/in/terry-wambui-0629b7115/'},
-    {id: 3, icon: <FaWhatsapp/>, link: 'https://wa.me/+254726424234'}
+    {id: 1, icon: <HiOutlineMail/>, link: 'mailto:kariakichernocherno@gmail.com'},
+    {id: 2, icon: <AiOutlineLinkedin/>, link: 'https://www.linkedin.com/in/kariakistephen/'},
+    {id: 3, icon: <FaWhatsapp/>, link: 'https://wa.me/+2349138314501'}
 ]
 
 // https://wa.me/+254726424234

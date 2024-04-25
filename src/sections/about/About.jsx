@@ -1,5 +1,5 @@
-import AboutImage from '../../assets/realsophia2.jpeg';
-import CV from '../../assets/terryResume.pdf'
+import AboutImage from '../../assets/profile2.jpeg';
+import CV from '../../assets/resume.pdf'
 import { HiDownload } from "react-icons/hi";
 import data from './data';
 import Card from '../../components/Card';
@@ -29,10 +29,16 @@ const About = () => {
                     </div>
                     
                     <p>
-                        Hi, my name is Terry Wambui from Nairobi, Kenya. I'm a full-stack web developer with a Certificate 
-                        in Software Engineering. My top priority is to get your business online the right way, giving
-                        you industry-standard design and all the functionality you need to operate smoothly online. Get in touch 
-                        with the details of your project let's get started! Check out my resume below!
+                    Greetings, I'm Stephen, hailing from Nigeria. As a seasoned full-stack 
+                    MERN developer, I'm dedicated to crafting top-tier web solutions. 
+                    Equipped with a Certificate in Software Engineering and a wealth of practical experience, 
+                    I prioritize ensuring your online presence meets industry standards. 
+                    My aim is to provide not just visually appealing designs, 
+                    but also the seamless functionality essential for your online operations.
+                     Don't hesitate to reach out with your project details – let's kickstart your
+                     journey online! Take a glance at my resume below!
+
+
                     </p>
                     <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
                 </div>
