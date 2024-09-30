@@ -29,15 +29,10 @@ const About = () => {
                     </div>
                     
                     <p>
-                    Greetings, I'm Stephen, hailing from Nigeria. As a seasoned full-stack 
-                    MERN developer, I'm dedicated to crafting top-tier web solutions. 
-                    Equipped with a Certificate in Software Engineering and a wealth of practical experience, 
-                    I prioritize ensuring your online presence meets industry standards. 
-                    My aim is to provide not just visually appealing designs, 
-                    but also the seamless functionality essential for your online operations.
-                     Don't hesitate to reach out with your project details – let's kickstart your
-                     journey online! Take a glance at my resume below!
+                    Hi! I’m Stephen, a Next.js Full Stack Developer dedicated to bringing your ideas to life. From design to development to production, I’ve got you covered.
 
+                    I specialize in HTML, CSS, JavaScript, React, Node.js, Express, Python, and Flask. I thrive on creating seamless user experiences and ensuring efficient back-end functionality.
+                    Let’s connect and build something amazing!
 
                     </p>
                     <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>

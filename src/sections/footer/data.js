@@ -12,7 +12,7 @@ export const links = [
 
 
 export const socials = [
-    {id: 1, link: 'https://twitter.com/ChernoKariaki', icon: <AiOutlineTwitter/>},
-    {id: 3, link: 'https://www.linkedin.com/in/kariakistephen/', icon: <AiOutlineLinkedin/>},
+    {id: 1, link: 'https://x.com/SKariaki', icon: <AiOutlineTwitter/>},
+    {id: 3, link: 'https://www.linkedin.com/in/kariakistephen58/', icon: <AiOutlineLinkedin/>},
     {id: 4, link: 'https://github.com/Kariaki58', icon: <AiFillGithub/>}
 ]
